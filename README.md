@@ -1,4 +1,4 @@
-# Projeto-Site-Clone-Spotfy
+# Projeto-Spotfy-Clone
 Esse é um projeto apenas para fins educativo. (This is a project for educational purposes only)
 
 Projeto clone do site Spotify feito no curso da Udemy (Curso completo de Desenvolvimento Web - Crie 6 projetos), com os professores: 
